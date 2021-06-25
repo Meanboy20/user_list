@@ -11,7 +11,7 @@ class List extends Component {
         firstName: "Jack",
         lastName: "Lee",
         sex: "male",
-        age: 30,
+        age: 20,
         passWord: "Ufefeangoey897e",
       },
       {
